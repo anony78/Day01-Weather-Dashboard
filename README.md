@@ -37,6 +37,7 @@ weather-dashboard/
   .env
   .gitignore
   requirements.txt
+  
 What I Learned
 
 AWS S3 bucket creation and management
