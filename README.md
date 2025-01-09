@@ -37,25 +37,6 @@ weather-dashboard/
   .env
   .gitignore
   requirements.txt
-
-## Setup Instructions
-1. Clone the repository:
---bash
-git clone https://github.com/ShaeInTheCloud/30days-weather-dashboard.git
-
-3. Install dependencies:
-bashCopypip install -r requirements.txt
-
-4. Configure environment variables (.env):
-CopyOPENWEATHER_API_KEY=your_api_key
-AWS_BUCKET_NAME=your_bucket_name
-
-4.Configure AWS credentials:
-bashCopyaws configure
-
-5. Run the application:
-python src/weather_dashboard.py
-
 What I Learned
 
 AWS S3 bucket creation and management
